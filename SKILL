@@ -1,0 +1,266 @@
+---
+name: geometric-photo-to-editorial-collage
+description: 将单张上传照片制作成3:4竖版“上半实拍、下半几何解构插画”的艺术编辑视觉稿。适用于人物、建筑、动物、植物、器物和景观照片。保持照片身份与真实质感，并从照片提取2-4种核心色彩，生成大块面、模块化、纸本拼贴感的几何插画。
+---
+
+# 单图照片 → 几何解构艺术编辑稿
+
+## 目标
+
+对每张上传照片独立成稿，输出一张 **3:4 竖版**视觉作品：
+
+- **上半部分 50%**：完整保留原照片。
+- **下半部分 50%**：从照片提取最具识别性的主体，重构为方块化、模块化、现代主义几何解构插画。
+- 不做多图拼接，不把多张照片组合到同一张画面。
+- 上下两部分必须形成明确的视觉对应关系，让人一眼看出下方插画来自上方照片。
+
+## 画布与版式
+
+- 画布比例：**3:4 竖版**。
+- 上下区域严格按 **1:1** 分配，各占约50%高度。
+- 上半部分与下半部分边界清晰、稳定。
+- 不因改成3:4而拉伸、压扁或扭曲原照片主体。
+- 如原照片比例不足，可自然扩展环境边缘，但不得改变主体结构。
+- 下半部分允许偏心、贴边、局部裁切，但整体重心稳定。
+- 大面积留白必须明显存在，避免下半部分铺满画布。
+
+## 上半部分：照片处理
+
+完整保留原照片中的：
+
+- 主体身份
+- 主体结构
+- 姿态与比例
+- 环境关系
+- 自然光影
+- 原有色彩氛围
+- 真实摄影质感
+
+仅进行轻微高级调色：
+
+- 色彩更干净、通透、统一
+- 对比度与层次适度提升
+- 保留自然高光、阴影和真实纹理
+- 接近艺术杂志、摄影展览图像的后期质感
+- 不做明显滤镜化、过度锐化或HDR效果
+
+如果需要扩展画面，只能沿原环境自然延展天空、地面、墙面、植被等背景，不得凭空增加新的主体。
+
+## 下半部分：几何解构插画
+
+### 核心原则
+
+不是照片描摹，也不是简单滤镜化。
+
+必须执行：
+
+1. 识别照片中最重要的主体。
+2. 提取主体的轮廓、结构、姿态、比例和叙事关系。
+3. 删除无关背景和碎片细节。
+4. 用少量、大面积、完整的几何块面重新组织主体。
+5. 保留最能代表主体身份的视觉记忆点。
+6. 让下方插画与上方照片在轮廓、方向、重心或结构上产生明确呼应。
+
+### 几何语言
+
+优先使用：
+
+- 大矩形
+- 方形
+- 圆角方块
+- 椭圆
+- 三角形
+- 梯形
+- 不规则大色块
+- 纸片式叠压
+- 简洁几何线条
+
+强调：
+
+- 方块感
+- 模块感
+- 几何切分
+- 大块面
+- 形状叠压
+- 拼贴重组
+- 正负形关系
+
+避免：
+
+- 大量细碎小块
+- 碎片化马赛克
+- 复杂线稿
+- 写实描摹
+- 卡通人物
+- 3D模型感
+- 过度透视
+- 复杂背景
+
+### 不同主体的提炼方式
+
+**人物**
+- 方形或几何化面部
+- 清晰下颌线
+- 少量块面概括五官
+- 保留发型、服饰轮廓、动作等关键识别点
+
+**建筑**
+- 转换为整体方块体量
+- 用立面分区、窗洞节奏、结构转折表达建筑身份
+- 删除无关环境建筑
+
+**动物**
+- 保留身体轮廓、头部比例、姿态、耳朵/尾巴等关键特征
+- 使用少量大色块概括身体结构
+
+**植物**
+- 提取枝干、叶片、花朵等主要轮廓
+- 通过几何叶片和块面表达形态
+- 避免大量细碎叶脉
+
+**器物**
+- 保留外轮廓、主要结构、比例和标志性部件
+- 将材质细节转译成几何色块
+
+**景观**
+- 提取山体、天空、河流、建筑、树木等主要层次
+- 用少量大块面建立远近关系
+- 不复制照片中的所有树木、石块和云朵
+
+## 构图与留白
+
+下半部分采用现代主义编辑构成：
+
+- 小尺度主体 + 大面积留白
+- 主体可以偏左、偏右、贴边或局部出框
+- 保持明显的视觉重心
+- 疏密有致
+- 正形与负形关系清楚
+- 色块之间留出呼吸空间
+- 背景只保留少量必要几何形状
+- 背景不得形成第二视觉中心
+
+整体观感应接近：
+
+**艺术编辑设计 / 现代主义海报构成 / 纸本拼贴 / 当代插画 / 艺术印刷品**
+
+而不是商业广告模板。
+
+## 色彩系统
+
+从原照片中自动提取 **2-4种最有辨识度的核心颜色**。
+
+处理原则：
+
+- 可以适度提亮
+- 可以适度提纯
+- 可以降低灰脏感
+- 可以将颜色转译为更现代、更高级的色块
+- 保留原照片的色彩气质，而不是完全换色
+
+优先考虑：
+
+- 奶油白
+- 杏色
+- 蜜桃粉
+- 珊瑚橙
+- 雾蓝
+- 灰绿
+- 鼠尾草绿
+- 暖棕
+- 柔紫
+
+色彩要求：
+
+- 主色鲜明但不刺眼
+- 辅色温柔、有层次
+- 干净
+- 温暖
+- 时髦
+- 亲和
+- 高级
+
+严格避免：
+
+- 土黄
+- 脏灰
+- 暗褐
+- 荧光色
+- 廉价糖果色
+- 颜色过多
+- 杂乱配色
+
+## 材质与印刷感
+
+下半部分应具有：
+
+- 温和纸张颗粒
+- 轻微版画印刷感
+- 细腻纸感
+- 柔和噪点
+- 轻微套印/印刷不完美感
+
+避免：
+
+- 光滑纯矢量
+- 玻璃质感
+- 金属3D
+- 三维渲染
+- 照片滤镜
+- 过度精修
+- 塑料感
+
+## 文字系统
+
+文字不是必须元素。
+
+如果加入文字：
+
+- 只允许少量
+- 可以是主体名称、地点、情绪词、编号或简短说明
+- 不限语种
+- 字号小
+- 字重轻
+- 排版克制
+- 放在留白或边角
+- 与几何图形形成编辑关系
+
+禁止：
+
+- 大标题
+- 商业广告式文案堆叠
+- 大量说明文字
+- 电商促销信息
+- 文字成为视觉中心
+
+如果照片本身没有明确需要文字，**优先不加文字**。
+
+## 输出提示词模板
+
+生成图像时可将以下结构作为最终提示：
+
+> 3:4 vertical editorial art composition, one uploaded photo transformed into a single finished artwork, strict 50/50 vertical split. Top half: preserve the original photograph completely, keep the subject identity, structure, pose, proportions, environment, realistic texture, natural lighting and original color atmosphere, only subtle sophisticated color grading, art magazine and exhibition photography quality, no distortion, no stretching, no subject alteration. Bottom half: reconstruct the most recognizable subject from the photo as a modernist geometric deconstructed collage illustration, clearly corresponding to the top photograph, simplified into a few large complete geometric modules, rectangles, squares, rounded blocks, ellipses, triangles and irregular paper-like shapes, bold flat color fields, layered paper-cut composition, clean positive-negative space, small subject with generous blank space, restrained asymmetry, mature and sophisticated, not fragmented, not mosaic-like, not overly detailed. Extract 2-4 key colors from the original photo and refine them into an elegant contemporary palette, soft cream, peach, coral, mist blue, sage green, warm brown or muted violet as appropriate. Subtle paper grain, fine print texture, gentle risograph/printmaking feel, tactile paper surface, slight ink imperfections. Minimal or no text; if text is used, tiny editorial annotation only. No photorealism in the lower half, no cartoon style, no 3D rendering, no glossy vector look, no excessive small pieces, no clutter, no cheap poster design, no commercial advertising layout.
+
+## 质量检查清单
+
+输出前逐项确认：
+
+- [ ] 画布为3:4竖版
+- [ ] 上下严格约50% / 50%
+- [ ] 每张上传照片独立成稿
+- [ ] 上半部分仍然是原照片
+- [ ] 原照片主体没有被拉伸、扭曲或替换
+- [ ] 上半部分仅轻微高级调色
+- [ ] 下半部分与照片主体具有明确对应关系
+- [ ] 下半部分不是写实描摹
+- [ ] 几何块面数量较少、面积较大
+- [ ] 没有碎片化马赛克效果
+- [ ] 主体尺度适中
+- [ ] 下半部分有明显大面积留白
+- [ ] 背景没有形成第二中心
+- [ ] 使用2-4种主要色彩
+- [ ] 色彩高级、干净、不脏不艳俗
+- [ ] 有温和纸张颗粒与轻微印刷感
+- [ ] 无明显3D渲染感
+- [ ] 无模板海报感
+- [ ] 无大段文字
